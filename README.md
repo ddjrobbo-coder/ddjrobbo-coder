@@ -36,7 +36,7 @@ A Python, PostgreSQL and Streamlit application developed to transform complex en
 
 `Python` `PostgreSQL` `Streamlit` `SQLAlchemy`
 
-*Repository coming soon.*
+[View the HeatPath project →](https://github.com/ddjrobbo-coder/heatpath-diagnostics)
 
 ### Cove Rangers Supporters Club App
 

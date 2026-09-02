@@ -46,7 +46,7 @@ Features include authentication, fixtures, news, league tables, away-travel book
 
 `React Native` `JavaScript` `Expo` `Firebase` `Firestore`
 
-*Repository / project showcase coming soon.*
+[View the HeatPath project →](https://github.com/ddjrobbo-coder/cove-rangers--supporters-app)
 
 ## 📫 Connect
 

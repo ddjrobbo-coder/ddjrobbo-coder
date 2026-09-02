@@ -52,4 +52,4 @@ Features include authentication, fixtures, news, league tables, away-travel book
 
 I'm currently building out this profile with examples of my software development work.
 
-LinkedIn profile coming soon.
+www.linkedin.com/in/dave-robertson-84119089
